@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{CF892008-3317-4E4A-9E18-B16151747D00}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLTest", "SQLTest\SQLTest.csproj", "{A10F0735-C226-4AAF-8420-49CE0DFEA4B4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{CF892008-3317-4E4A-9E18-B16151747D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF892008-3317-4E4A-9E18-B16151747D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF892008-3317-4E4A-9E18-B16151747D00}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A10F0735-C226-4AAF-8420-49CE0DFEA4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A10F0735-C226-4AAF-8420-49CE0DFEA4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A10F0735-C226-4AAF-8420-49CE0DFEA4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A10F0735-C226-4AAF-8420-49CE0DFEA4B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
